@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects.
 - 📫 How to reach me: linrx{at}linrx{dot}net
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: Once upon a time, I was a scholar with the now defunct Infocomm Development Authority of Singapore. I was a high flyer, before I crashed to the ground after being diagnosed with clinical depression in 2012 followed by bipolar in 2018 and schizoaffective disorder in 2019. Today, I am a grassroots contributor while serving part time to help out my family business. I still suffer from symptoms of mental illness though my condition is kept under control with daily medication.
+- ⚡ Fun fact: I am a self employed Singapore citizen with a background in computing science. At present I am doing a part-time diploma in Gerontology while helping my family out as a part-timer. I plan to complete my diploma then take on another diploma in the domain of Artificial Intelligence and make a mid career switch.
 
 
 <!---
