@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linrx81
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Healthy Ageing & Community Care for Seniors at Republic Polytechnic in Singapore.
+- 🌱 I’m currently learning Generative Artificial Intelligence through self help books.
 - 💞️ I’m looking to collaborate on Artificial Intelligence projects.
 - 📫 How to reach me: linrx{at}linrx{dot}net
 - 😄 Pronouns: Him/He
